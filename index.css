@@ -4,7 +4,7 @@ body {
 }
 /* merged from develop  */
 
-
+/*  merged from  feature/demo */
 body.light-mode {
     background-color: var(--background-color);
     color: var(--text-color)
@@ -20,4 +20,4 @@ body.dark-mode {
  color: var(--text-color)
 
 }
-
+/*   merged from  feature/demo  */
