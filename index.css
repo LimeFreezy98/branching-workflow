@@ -3,3 +3,21 @@ body {
     background-color: #5f4182;
 }
 /* merged from develop  */
+
+
+body.light-mode {
+    background-color: var(--background-color);
+    color: var(--text-color)
+}
+
+
+body.dark-mode {
+
+    --background-color: black;
+    --text-color:  white;
+
+ background-color: var(--background-color);
+ color: var(--text-color)
+
+}
+
